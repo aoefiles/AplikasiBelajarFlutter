@@ -6,7 +6,7 @@ Konten materi di dalam aplikasi ini (seperti deskripsi State Management, Widget,
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 * **5 Halaman Materi:** Home (Pengantar), Widget Dasar, State Management, Routing & Navigasi, dan Tentang GetX.
 * **Navigasi GetX:** Menggunakan navigasi `Get.toNamed()` dengan rute yang terpusat di `app/routes/app_pages.dart`.
@@ -15,7 +15,7 @@ Konten materi di dalam aplikasi ini (seperti deskripsi State Management, Widget,
 
 ---
 
-## 💻 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * Flutter
 * Dart
