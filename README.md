@@ -1,16 +1,22 @@
-# aplikasi_belajar_flutter
+# 📚 Aplikasi Belajar Flutter (Paket 8)
 
-A new Flutter project.
+Ini adalah proyek aplikasi Flutter sederhana yang dibuat untuk memenuhi tugas **Paket 8: Aplikasi Belajar Flutter**. Aplikasi ini berfungsi sebagai panduan interaktif untuk konsep-konsep dasar Flutter, dengan fokus utama pada penggunaan *library* **GetX** untuk *state management* dan *routing*.
 
-## Getting Started
+Konten materi di dalam aplikasi ini (seperti deskripsi State Management, Widget, dll.) diambil dari materi yang disediakan (`State Management Flutter.pptx` dan `Flutter State Dasar Halaman.pdf`).
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **5 Halaman Materi:** Home (Pengantar), Widget Dasar, State Management, Routing & Navigasi, dan Tentang GetX.
+* **Navigasi GetX:** Menggunakan navigasi `Get.toNamed()` dengan rute yang terpusat di `app/routes/app_pages.dart`.
+* **Struktur Modular:** Proyek diorganisir ke dalam folder `app/modules` untuk setiap fitur/halaman.
+* **Widget Kustom:** Menggunakan widget `MateriListTile` di file terpisah untuk menampilkan daftar materi di halaman Home (memenuhi instruksi tugas `ListTile`).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 💻 Teknologi yang Digunakan
+
+* Flutter
+* Dart
+* GetX (untuk State Management & Routing)
